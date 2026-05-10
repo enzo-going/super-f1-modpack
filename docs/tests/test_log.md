@@ -23,4 +23,18 @@ Registro de testes feitos após instalar mods.
 
 ## Testes realizados
 
-Nenhum teste realizado ainda.
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Mod testado | Simplified Launcher for F1 25 v3.1 |
+| Versão | v3.1 |
+| Fonte | OverTake |
+| Instalação | Ainda não instalado |
+| Jogo abriu? | Não testado |
+| Menu carregou? | Não testado |
+| Corrida rápida funcionou? | Não testado |
+| Replay funcionou? | Não testado |
+| Crash? | Não testado |
+| Performance | Não testado |
+| Resultado final | Baixado e aprovado para instalação |
+| Segurança | Kaspersky limpo. Defender limpo. |

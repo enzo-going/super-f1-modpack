@@ -1,0 +1,19 @@
+# Local mod files - do not upload
+local/
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+*.erp
+*.mipmaps
+*.pkg
+*.bak
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Logs/temp
+*.log
+*.tmp

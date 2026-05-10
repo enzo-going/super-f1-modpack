@@ -49,3 +49,16 @@ Registro de testes feitos após instalar mods.
 | Kaspersky | Limpo |
 | Defender | Limpo |
 | Resultado | Pasta extraída validada. Aprovado para primeiro teste de abertura. |
+
+---
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Mod testado | Simplified Launcher for F1 25 v3.1 |
+| Etapa | Primeiro teste de abertura |
+| Permissão de administrador | Solicitada e aceita |
+| Resultado | Launcher abriu corretamente |
+| Tela inicial | SERPs Base Files for F1 25 v3.2 detectado |
+| Mods aplicados | Nenhum |
+| Observação | Nenhum alerta do Kaspersky ou Defender durante abertura |

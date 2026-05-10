@@ -38,3 +38,14 @@ Registro de testes feitos após instalar mods.
 | Performance | Não testado |
 | Resultado final | Baixado e aprovado para instalação |
 | Segurança | Kaspersky limpo. Defender limpo. |
+---
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Mod testado | Simplified Launcher for F1 25 v3.1 |
+| Etapa | Extração da pasta |
+| Local | C:\Users\Enzo\Documentação_Projetos_importantes\Mods\F1_25\02_INSTALADOS\Simplified_Launcher_v3.1 |
+| Kaspersky | Limpo |
+| Defender | Limpo |
+| Resultado | Pasta extraída validada. Aprovado para primeiro teste de abertura. |

@@ -87,3 +87,18 @@ Registro de testes feitos após instalar mods.
 | Resultado | Instalado com sucesso |
 | Status no launcher | Ready to restore |
 | Observação | Interface ficou temporariamente em "Installing mods...", mas após reiniciar o launcher confirmou 1 mod instalado |
+
+---
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Teste do jogo com SERPs Base |
+| Estado do jogo | F1 25 Super Base |
+| Mod ativo | SERPs Base Files for F1 25 v3.2 |
+| Jogo abriu? | Sim |
+| Loading mostrou SERPs? | Sim |
+| Menu carregou? | Sim |
+| Corrida offline iniciou? | Sim |
+| Crash? | Não |
+| Resultado | SERPs Base validado em teste real. Base aprovada para instalação de mods adicionais. |

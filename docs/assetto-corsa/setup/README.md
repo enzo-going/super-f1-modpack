@@ -16,3 +16,16 @@ Preparar o Assetto Corsa para uso com:
 ## Status
 
 Ainda não configurado.
+
+---
+
+## Instalação localizada
+
+| Campo | Informação |
+|---|---|
+| Jogo | Assetto Corsa |
+| App ID Steam | 244210 |
+| Pasta Steam | C:\Steam\steamapps\common\assettocorsa |
+| Launcher original | AssettoCorsa.exe |
+| Executável de simulação | acs.exe |
+| Status | Instalação localizada com sucesso |

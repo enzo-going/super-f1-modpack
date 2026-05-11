@@ -77,3 +77,19 @@ Log de testes do Assetto Corsa.
 | G923 conectado? | Não |
 | Corrida iniciada? | Não |
 | Resultado | Content Manager e CSP configurados com sucesso. Base técnica aprovada para primeiro teste de corrida. |
+
+---
+
+## Primeiro teste de corrida com Content Manager e CSP
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Primeiro teste de corrida com Content Manager e CSP |
+| Content Manager | Funcionando |
+| Custom Shaders Patch | Instalado |
+| CSP versão ativa | 0.2.11 |
+| Corrida carregou? | Sim |
+| Jogo rodou normalmente? | Sim |
+| G923 conectado? | Não |
+| Resultado | Base técnica validada. Projeto aprovado para expansão com mods gráficos, carros, pistas e presets. |

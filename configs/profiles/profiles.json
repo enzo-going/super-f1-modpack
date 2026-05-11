@@ -1,0 +1,29 @@
+﻿{
+  "profiles": [
+    {
+      "name": "Assetto Corsa - F1 2020",
+      "status": "planned",
+      "game": "Assetto Corsa"
+    },
+    {
+      "name": "Assetto Corsa - Schumacher Era",
+      "status": "planned",
+      "game": "Assetto Corsa"
+    },
+    {
+      "name": "Assetto Corsa - Senna Era",
+      "status": "planned",
+      "game": "Assetto Corsa"
+    },
+    {
+      "name": "F1 25 - Default",
+      "status": "available",
+      "game": "F1 25"
+    },
+    {
+      "name": "F1 25 - SERPs Base",
+      "status": "validated",
+      "game": "F1 25"
+    }
+  ]
+}

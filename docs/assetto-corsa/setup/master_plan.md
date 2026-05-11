@@ -119,3 +119,28 @@ Um mod gratuito só entra se cumprir:
 5. primeiro carro F1 gratuito ou altamente confiável
 6. primeira pista extra
 7. preset inicial
+
+---
+
+## Revisão técnica — Sol em espera
+
+Sol foi inicialmente considerado como primeira camada gratuita de clima/atmosfera.
+
+Após validação, o projeto manterá Sol em espera porque a instalação atual usa CSP 0.2.11, e há relatos de incompatibilidade entre Sol 2.2.9 e CSP 0.2.10/0.2.11.
+
+Decisão atual:
+
+| Item | Decisão |
+|---|---|
+| CSP atual | Manter 0.2.11 |
+| Sol | Não instalar agora |
+| Próxima camada visual | PPFilter gratuito compatível com CSP |
+| Motivo | Evitar downgrade/troca de CSP antes de consolidar a base |
+
+## Próximo alvo gráfico
+
+Prioridade atual:
+
+1. PPFilter gratuito
+2. Teste visual
+3. Só depois decidir sobre clima avançado

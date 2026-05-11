@@ -113,3 +113,23 @@ Log de testes do Assetto Corsa.
 | Crash? | Não |
 | FPS | OK, sem queda perceptível |
 | Resultado | Aprovado como PPFilter estável, mas não definido como visual final do projeto |
+
+---
+
+## Teste REVOLUTION PPFilter 1.3
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Teste de PPFilter gratuito |
+| Mod testado | REVOLUTION 1.3 |
+| Categoria | PPFilter |
+| Fonte | OverTake |
+| Instalação | Copiada apenas a pasta system para a raiz do Assetto Corsa |
+| Arquivo principal | REVOLUTION.ini |
+| REVOLUTION apareceu na lista de PPFilter? | Sim |
+| Corrida abriu? | Sim |
+| Visual mudou? | Sim, mudança leve |
+| Crash? | Não |
+| FPS | OK, sem queda perceptível |
+| Resultado | Aprovado como PPFilter estável, mas não definido como visual final do projeto |

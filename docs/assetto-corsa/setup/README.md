@@ -29,3 +29,22 @@ Ainda não configurado.
 | Launcher original | AssettoCorsa.exe |
 | Executável de simulação | acs.exe |
 | Status | Instalação localizada com sucesso |
+
+---
+
+## Content Manager validado
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Download, extração e validação do Content Manager |
+| Fonte | AC Stuff / Content Manager |
+| Arquivo baixado | content-manager.zip |
+| Pasta de download | C:\Users\Enzo\Documentação_Projetos_importantes\Mods\Assetto_Corsa\01_APROVADOS |
+| Pasta extraída | C:\Users\Enzo\Documentação_Projetos_importantes\Mods\Assetto_Corsa\02_INSTALADOS\Content_Manager |
+| Executável | Content Manager.exe |
+| Kaspersky ZIP | Limpo |
+| Defender ZIP | Limpo |
+| Kaspersky pasta extraída | Limpo |
+| Defender pasta extraída | Limpo |
+| Resultado | Content Manager aprovado para primeiro teste de abertura |

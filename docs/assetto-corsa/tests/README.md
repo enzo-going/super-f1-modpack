@@ -58,3 +58,22 @@ Log de testes do Assetto Corsa.
 | CSP instalado? | Ainda não |
 | Corrida iniciada? | Não |
 | Resultado | Content Manager abriu corretamente e está pronto para instalação/configuração do CSP |
+
+---
+
+## Content Manager e CSP validados
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Configuração inicial do Content Manager e CSP |
+| Content Manager abriu? | Sim |
+| Assetto root folder detectado? | Sim |
+| Plugin 7-Zip instalado? | Sim |
+| Custom Shaders Patch instalado? | Sim |
+| CSP versão ativa | 0.2.11 |
+| CSP status | Updated successfully |
+| Versão usada | Recommended |
+| G923 conectado? | Não |
+| Corrida iniciada? | Não |
+| Resultado | Content Manager e CSP configurados com sucesso. Base técnica aprovada para primeiro teste de corrida. |

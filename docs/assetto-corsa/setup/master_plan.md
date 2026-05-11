@@ -78,3 +78,44 @@ Objetivo: experiência histórica focada em Senna/McLaren e F1 clássica.
 - Sem mod pago redistribuído ilegalmente
 - Sem instalar pacotes em massa
 - Sempre registrar fonte, versão, função e resultado
+
+---
+
+## Estratégia free-first
+
+Nesta fase, o projeto prioriza mods gratuitos, seguros e de alto nível.
+
+O objetivo é montar uma base forte antes de considerar conteúdo pago.
+
+## Stack gratuita inicial
+
+| Camada | Mod/Ferramenta | Status |
+|---|---|---|
+| Launcher | Content Manager Lite | Validado |
+| Base técnica | Custom Shaders Patch recommended | Validado |
+| Clima/atmosfera | Sol | Próximo alvo |
+| PPFilter | C13 AEGIS Lite ou SKY | Planejado |
+| HUD | F1 2020 HUD simples | Planejado |
+| Carros | Mods gratuitos confiáveis primeiro; pagos só depois se fizer sentido | Planejado |
+| Pistas | Pistas gratuitas confiáveis via OverTake e fontes reputadas | Planejado |
+
+## Critério de entrada
+
+Um mod gratuito só entra se cumprir:
+
+1. fonte confiável;
+2. compatibilidade com Assetto Corsa + CSP;
+3. função clara no projeto;
+4. ausência de executável suspeito;
+5. possibilidade de remoção/restauração;
+6. teste individual após instalação.
+
+## Ordem free-first
+
+1. Sol
+2. PPFilter gratuito
+3. teste visual
+4. HUD simples estilo F1
+5. primeiro carro F1 gratuito ou altamente confiável
+6. primeira pista extra
+7. preset inicial

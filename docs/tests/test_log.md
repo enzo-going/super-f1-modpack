@@ -62,3 +62,16 @@ Registro de testes feitos após instalar mods.
 | Tela inicial | SERPs Base Files for F1 25 v3.2 detectado |
 | Mods aplicados | Nenhum |
 | Observação | Nenhum alerta do Kaspersky ou Defender durante abertura |
+
+---
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Backup pré-SERPs |
+| Jogo | F1 25 |
+| Pasta original | C:\Steam\steamapps\common\F1 25 |
+| Pasta de backup | C:\Users\Enzo\Documentação_Projetos_importantes\Mods\F1_25\03_BACKUPS\F1_25_ORIGINAL_PRE_SERPS |
+| Pastas copiadas | game_package, 2025_asset_groups, f1_2025_vehicle_package, f1_2024_vehicle_package, livery_package_shared, audio, character_package, character_package_shared |
+| Arquivos copiados | F1_25.exe, steam_api64.dll, game.dat, game.daf, EAAntiCheat.cfg, EAAntiCheat.GameServiceLauncher.exe, EAAntiCheat.GameServiceLauncher.dll, appmanifest_3059520.acf |
+| Resultado | Backup original pré-SERPs criado com sucesso |

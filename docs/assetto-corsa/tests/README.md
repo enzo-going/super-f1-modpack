@@ -133,3 +133,25 @@ Log de testes do Assetto Corsa.
 | Crash? | Não |
 | FPS | OK, sem queda perceptível |
 | Resultado | Aprovado como PPFilter estável, mas não definido como visual final do projeto |
+
+---
+
+## Teste C13 AEGIS Lite
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Teste de PPFilter gratuito |
+| Mod testado | C13 AEGIS Lite |
+| Categoria | PPFilter / color grading |
+| Fonte | OverTake |
+| Instalação | Copiadas as pastas system e extension para a raiz do Assetto Corsa |
+| Arquivo principal | C13AEGIS_Lite.ini |
+| C13 apareceu na lista de PPFilter? | Sim |
+| Corrida abriu? | Sim |
+| Visual mudou? | Sim |
+| Comparado ao REVOLUTION | Pior |
+| Problema observado | Imagem muito branca/estourada |
+| Crash? | Não |
+| FPS | OK |
+| Resultado | Funcional, mas não aprovado como PPFilter principal do projeto |

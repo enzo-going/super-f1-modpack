@@ -75,3 +75,15 @@ Registro de testes feitos após instalar mods.
 | Pastas copiadas | game_package, 2025_asset_groups, f1_2025_vehicle_package, f1_2024_vehicle_package, livery_package_shared, audio, character_package, character_package_shared |
 | Arquivos copiados | F1_25.exe, steam_api64.dll, game.dat, game.daf, EAAntiCheat.cfg, EAAntiCheat.GameServiceLauncher.exe, EAAntiCheat.GameServiceLauncher.dll, appmanifest_3059520.acf |
 | Resultado | Backup original pré-SERPs criado com sucesso |
+
+---
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Instalação SERPs Base |
+| Mod instalado | SERPs Base Files for F1 25 v3.2 |
+| Ferramenta | Simplified Launcher v3.1 |
+| Resultado | Instalado com sucesso |
+| Status no launcher | Ready to restore |
+| Observação | Interface ficou temporariamente em "Installing mods...", mas após reiniciar o launcher confirmou 1 mod instalado |

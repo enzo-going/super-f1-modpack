@@ -40,3 +40,21 @@ Log de testes do Assetto Corsa.
 | CSP instalado? | Ainda não |
 | Corrida iniciada? | Não |
 | Resultado | Content Manager abriu corretamente e está pronto para configuração inicial |
+
+---
+
+## Primeiro teste do Content Manager
+
+| Campo | Informação |
+|---|---|
+| Data | 10/05/2026 |
+| Etapa | Primeiro teste de abertura do Content Manager |
+| Assetto root folder | C:\Steam\steamapps\common\assettocorsa |
+| Plugin 7-Zip | Instalado |
+| Tela principal abriu? | Sim |
+| Configurações acessadas? | Sim |
+| Input detectado no momento | Gamepad |
+| G923 conectado? | Não |
+| CSP instalado? | Ainda não |
+| Corrida iniciada? | Não |
+| Resultado | Content Manager abriu corretamente e está pronto para instalação/configuração do CSP |
